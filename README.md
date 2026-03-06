@@ -11,7 +11,6 @@
 - HTML
 - CSS
 - JavaScript
-- WordPress
 - Git
 - GitHub
 
@@ -21,7 +20,6 @@
 
 - JavaScript
 - WordPress
-- Front-End
 
 ---
 
