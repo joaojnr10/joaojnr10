@@ -57,8 +57,10 @@
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaojnr10&show_icons=true&theme=dark)
+## 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaojnr10&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaojnr10&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaojnr10&layout=compact&theme=tokyonight)
 
 ⭐ Sempre aprendendo e evoluindo no mundo da programação.
