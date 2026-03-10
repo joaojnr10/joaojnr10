@@ -54,13 +54,5 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <br>
-
-## 📊 Estatísticas
-
-## 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaojnr10&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaojnr10&layout=compact&theme=tokyonight)
-
+---
 ⭐ Sempre aprendendo e evoluindo no mundo da programação.
