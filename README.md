@@ -53,7 +53,11 @@
 <a href="https://www.linkedin.com/in/joaojnr10">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<br>
 
+## 📊 Estatísticas
+
+![](https://github-profile-3d-contrib.vercel.app/api?username=joaojnr10)
 ---
 
 ⭐ Sempre aprendendo e evoluindo no mundo da programação.
