@@ -57,7 +57,8 @@
 
 ## 📊 Estatísticas
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaojnr10&show_icons=true&theme=dark)
 
-[![GitHub 3D Contributions](https://github-profile-3d-contrib.vercel.app/api?username=joaojnr10)](https://github-profile-3d-contrib.vercel.app/api?username=joaojnr10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaojnr10&layout=compact&theme=dark)
 
 ⭐ Sempre aprendendo e evoluindo no mundo da programação.
