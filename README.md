@@ -57,7 +57,7 @@
 
 ## 📊 Estatísticas
 
-![](https://github-profile-3d-contrib.vercel.app/api?username=joaojnr10)
----
+
+![GitHub 3D Contributions](https://github-profile-3d-contrib.vercel.app/api?username=joaojnr10)
 
 ⭐ Sempre aprendendo e evoluindo no mundo da programação.
