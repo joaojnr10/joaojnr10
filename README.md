@@ -9,8 +9,8 @@
 
 ## 🧠 Sobre mim
 
-Desenvolvedor Full Stack em formação, em transição de carreira para a área de tecnologia.
-Atualmente focado em Front End, tenho experiência com HTML, CSS, JavaScript, Git e GitHub, e estou estudando React, Node.js e TypeScript.
+Desenvolvedor Full-Stack em formação, em transição de carreira para a área de tecnologia.
+Atualmente focado em Front-End, tenho experiência com HTML, CSS, JavaScript, Git e GitHub, e estou estudando React, Node.js e TypeScript.
 
 Focado em criar interfaces modernas, responsivas e funcionais, sempre buscando melhorar a experiência do usuário e escrever código limpo e organizado.
 
