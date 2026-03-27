@@ -40,8 +40,8 @@ Focado em criar interfaces modernas, responsivas e funcionais, sempre buscando m
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaojnr10&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojnr10&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaojnr10&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojnr10&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
