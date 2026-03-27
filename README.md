@@ -9,8 +9,14 @@
 
 ## 🧠 Sobre mim
 
-Sou apaixonado por tecnologia e estou em constante evolução no desenvolvimento web.  
-Focado em criar interfaces modernas, responsivas e funcionais, sempre buscando melhorar a experiência do usuário.
+Desenvolvedor Full Stack em formação, em transição de carreira para a área de tecnologia.
+Atualmente focado em Front End, tenho experiência com HTML, CSS, JavaScript, Git e GitHub, e estou estudando React, Node.js e TypeScript.
+
+Focado em criar interfaces modernas, responsivas e funcionais, sempre buscando melhorar a experiência do usuário e escrever código limpo e organizado.
+
+Atualmente em busca da minha primeira oportunidade como desenvolvedor, onde eu possa aplicar meus conhecimentos, aprender na prática e crescer profissionalmente.
+
+Determinado, consistente e comprometido com a evolução diária.
 
 ---
 
@@ -37,14 +43,6 @@ Focado em criar interfaces modernas, responsivas e funcionais, sempre buscando m
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaojnr10&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaojnr10&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
----
 
 ## 📫 Contato
 
