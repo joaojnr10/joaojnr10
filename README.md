@@ -23,7 +23,7 @@ Determinado, consistente e comprometido com a evolução diária.
 ## 🚀 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github" />
 </p>
 
 ---
@@ -31,7 +31,7 @@ Determinado, consistente e comprometido com a evolução diária.
 ## 📚 Atualmente estudando
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,mongodb,ts" />
+  <img src="https://skillicons.dev/icons?i=mongodb,ts" />
 </p>
 
 ---
