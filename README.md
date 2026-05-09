@@ -1,9 +1,10 @@
-# 👋 Olá, eu sou o João Carlos
+# <h1 align="center">👋 Olá, eu sou o João Carlos</h1>
 
-💻 Desenvolvedor **Front-End em formação**  
-📍 Cabo Frio - RJ  
-🚀 Em transição de carreira para tecnologia  
-🎯 Buscando minha **primeira oportunidade como Desenvolvedor Front-End**
+<p align="center">
+💻 Desenvolvedor Front-End em formação <br>
+📍 Cabo Frio - RJ <br>
+🚀 Em transição de carreira para tecnologia
+</p>
 
 ---
 
@@ -22,7 +23,7 @@ Determinado, consistente e comprometido com a evolução diária.
 
 ## 🚀 Tecnologias
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github" />
 </p>
 
@@ -30,7 +31,7 @@ Determinado, consistente e comprometido com a evolução diária.
 
 ## 📚 Atualmente estudando
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,ts" />
 </p>
 
@@ -46,13 +47,15 @@ Determinado, consistente e comprometido com a evolução diária.
 
 ## 📫 Contato
 
-<a href="mailto:joaojnr10@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+<p align="center">
+  <a href="mailto:joaojnr10@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 
-<a href="https://www.linkedin.com/in/joaojnr10">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/joaojnr10">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 ---
 
